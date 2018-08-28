@@ -18,6 +18,8 @@
 
 - 项目运行截图
 
+ ![image](https://github.com/MeterSunlight/WX_Chat_YJ/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-28%20at%2021.49.30.png)
+
 - 项目UI层次结构
 
 
